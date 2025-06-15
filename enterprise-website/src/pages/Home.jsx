@@ -55,7 +55,7 @@ function HomePage() {
               </div>
             </div>
 
-            <img src="https://i.postimg.cc/3NgvPcZD/home-img.png" alt="Home" className="home-img" />
+            <img src="./Logo.jpg" alt="Home" className="home-img" />
 
             <div className="home-data">
               <h1 className="home-title">Welcome to McGEBA Enterprise &amp; Projects</h1>
