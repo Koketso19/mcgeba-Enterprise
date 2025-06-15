@@ -6,6 +6,10 @@ import Home from './pages/Home'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
+import 'boxicons/css/boxicons.min.css';
+import '@iconscout/unicons/css/line.css';
+
+
 
 function App() {
   return (
